@@ -26,4 +26,4 @@ These notes were largely written and compiled in Summer and Fall 2020. Names and
 [Planning an intentional community](https://docs.google.com/document/d/e/2PACX-1vQnGMRtu5dxPIiV-BXqZiHKnEKHTXVtvQGFdhYErsQi5owNDEmQYVrSHo7k7RIS38a2_EkbTm60eRwK/pub) (Google)
 
 ## General
-[Front Range resource compilation](https://docs.google.com/document/d/e/2PACX-1vSAMdoh0h6bSclqzR_uLHLLWepNEgzYNyD6lm3pipzTGW57Is_8yqW1idYjTSZ1pGrHzphb3CRejnw9/pub) (Google)
+[Front Range resource compilation](https://www.google.com/url?q=https://abyssinian-pink-a2b.notion.site/Front-Range-Resource-Omnibus-b59c179b51554449adc81a2f81e92c32&sa=D&source=editors&ust=1749457864779424&usg=AOvVaw1cg3O-JA_WXrKZ52QKRvAX) (Notion)
